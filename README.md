@@ -1,1 +1,1 @@
-# SQL_Projects
+# SQL data analysis Projects
