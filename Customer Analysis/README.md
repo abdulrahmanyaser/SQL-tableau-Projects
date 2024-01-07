@@ -1,5 +1,7 @@
 
-# Customer Analysis
+# Customer Analysis  
+![download](https://github.com/abdulrahmanyaser/Abdo-Y-Portfolio/assets/74540804/32936c97-ce59-4cf7-89d9-80e484d57b9a)
+
 ## in this dashboard i used real records of almost 300k of records to analyse and understand how the sales and reviews performance is going on.  
 ### Data Acquisition:  
       aquired from stanley-george-joseph github account.  
