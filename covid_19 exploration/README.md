@@ -1,5 +1,8 @@
 # covid_19_exploration  
 
+![download](https://github.com/abdulrahmanyaser/SQL-tableau-Projects/assets/74540804/fa682942-2a94-4a38-a0dd-bdb68739400c)
+
+
 ### Purpose:
 
       Explore and visualize COVID-19 data from the beginning of the pandemic to 2022-03-25.
