@@ -1,3 +1,23 @@
-### covid_19_exploration
+# covid_19_exploration  
 
-this project is about exploring & visualizing covid-19 dataset since the beginning till 2022\03\25 using sql and tableau. in this project i'll clean the datasets and making 'em suitable for explorations and vizuals. it's divided into 2 parts the sql for queries and tableau for visualizations, then at the end showing the final viz & results in pdf report. the dataset, i got it from here https://ourworldindata.org/covid-deaths and splitted it into 2 files one for covid cases & death and the other for the vaccines.
+### Purpose:
+
+      Explore and visualize COVID-19 data from the beginning of the pandemic to 2022-03-25.
+      Utilize SQL for data cleaning and querying, and Tableau for visual analysis.
+      Present findings and visualizations in a PDF report.
+
+### Dataset:  
+
+  [Source](https://ourworldindata.org/covid-deaths)   
+  
+      Divided into two files:  
+          1- COVID cases and deaths.  
+          2- Vaccines.  
+### Key Steps:
+
+#### Data Cleaning and Preparation:  
+        Use SQL to clean and format the datasets for analysis.  
+#### SQL Queries:
+        Write SQL queries to explore and extract relevant data.  
+#### Report Creation:  
+        Compile visualizations and findings into a clear and concise PDF report.  
